@@ -16,7 +16,7 @@ public class ComparadorEstacion implements Comparator <Dia> {
 		this.formaDeComparar = formaDeComparar;
 		
 		ordenDeComparacion = ASCENDENTE;
-		
+		//
 	}
 	
 	public void cambiarFormaDeComparar(int formaComparar) {
